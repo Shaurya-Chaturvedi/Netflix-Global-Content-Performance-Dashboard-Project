@@ -18,9 +18,12 @@ This project analyzes Netflix’s global content performance from 2020 onwards. 
 
 📂 Dataset Used:
 a) https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/credits.csv
-b)
+b) https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/titles.csv
 
 Source: Kaggle – Netflix Dataset 
+## Background theme image used : 
+[]
+
 
 Attributes:
 
