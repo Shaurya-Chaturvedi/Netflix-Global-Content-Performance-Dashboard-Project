@@ -22,7 +22,10 @@ b) https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dash
 
 Source: Kaggle – Netflix Dataset 
 ## Background theme image used : 
-[]
+[https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/Netflix%20background.jpg]
+
+## Dashboard interaction:
+
 
 
 Attributes:
