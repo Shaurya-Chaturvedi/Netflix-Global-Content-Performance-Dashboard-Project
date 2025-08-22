@@ -16,7 +16,9 @@ This project analyzes Netflix’s global content performance from 2020 onwards. 
 
 ## The goal is to help uncover business insights that guide content acquisition, production strategies, and audience engagement.
 
-📂 Dataset
+📂 Dataset Used:
+a) https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/credits.csv
+b)
 
 Source: Kaggle – Netflix Dataset 
 
