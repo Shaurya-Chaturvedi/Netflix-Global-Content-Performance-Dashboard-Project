@@ -66,7 +66,7 @@ Average ratings: IMDB (6.5) and TMDB (6.83) → moderate but consistent.
 
 📸 Dashboard Preview
 
-![Project Dashboard]()
+![Project Dashboard](https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/Snapshot%20of%20project.png)
 
 
 🏁 Conclusion & Recommendations
