@@ -26,7 +26,7 @@ Source: Kaggle – Netflix Dataset
 [https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/Netflix%20background.jpg]
 
 ## Dashboard interaction:
-Netflix Global Content Performance Dashboard Project DA.pbix
+https://github.com/Shaurya-Chaturvedi/Netflix-Global-Content-Performance-Dashboard-Project/blob/main/Netflix%20Global%20Content%20Performance%20Dashboard%20Project%20DA.pbix
 
 
 Attributes:
